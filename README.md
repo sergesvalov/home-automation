@@ -1,1 +1,1 @@
-# home-automation
+First stage of home temperature checking
